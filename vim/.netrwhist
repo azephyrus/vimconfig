@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =2
+let g:netrw_dirhist_2='/home/zephyrus/workspace/stm32_std/Core'
+let g:netrw_dirhist_1='/home/zephyrus/workspace/stm32_std'
+let g:netrw_dirhist_0='/home/zephyrus/workspace/stm32_std/Core'
+let g:netrw_dirhist_9='/home/zephyrus/workspace/stm32_std'
+let g:netrw_dirhist_8='/home/zephyrus/workspace/stm32_std/Core'
+let g:netrw_dirhist_7='/home/zephyrus/workspace/stm32_std'
+let g:netrw_dirhist_6='/home/zephyrus/workspace/stm32_std/Core'
+let g:netrw_dirhist_5='/home/zephyrus/workspace/stm32_std'
+let g:netrw_dirhist_4='/home/zephyrus/workspace/stm32_std/Core'
+let g:netrw_dirhist_3='/home/zephyrus/workspace/stm32_std'
