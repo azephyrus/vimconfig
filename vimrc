@@ -1,6 +1,6 @@
 set laststatus=1
 set number
-set relativenumber
+"set relativenumber
 set showcmd
 set showmode
 let mapleader="\\"
